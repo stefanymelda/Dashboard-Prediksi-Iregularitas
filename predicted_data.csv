@@ -1,0 +1,6 @@
+Reg_Asal,Kode_Reg_Asal,Reg_Tujuan,Kode_Reg_Tujuan,DNLN,Deskripsi_Iregularitas,Bulan_BA,referensi_root_cause,Prediksi_Corrective_Action
+Regional I Medan,20004,Regional III Bandung,40004,DOMESTIK,Foto Antaran Tidak Sesuai,2025-01,Petugas Tidak Melaksanakan SOP,Teguran Tertulis + Sanksi 
+Regional II Jakarta,10004,Regional V Surabaya,60004,DOMESTIK,Isi Kiriman Tidak Sesuai,2025-01,Pengirim Tidak Menginfokan Isi Kiriman Yang Benar,Pemberitahuan Pelanggan
+Regional II Jakarta,10004,Regional I Medan,20004,DOMESTIK,Gagal X-Ray,2025-01,Petugas Tidak Melaksanakan SOP,Teguran Tertulis + Sanksi 
+Regional I Medan,20004,Regional V Surabaya,60004,DOMESTIK,Isi Kiriman Tidak Sesuai,2025-02,Pengirim Tidak Menginfokan Isi Kiriman Yang Benar,Pemberitahuan Pelanggan
+Regional I Medan,20004,Regional II Jakarta,10004,DOMESTIK,Foto Antaran Tidak Sesuai,2025-02,Petugas Tidak Melaksanakan SOP,Teguran Tertulis + Sanksi 
